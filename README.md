@@ -1,7 +1,11 @@
 # Hello 👋, I'm Kaviya
 ### Full Stack Developer
 
-I’m a passionate full-stack developer and problem solver, exploring the cutting edge of web technologies and software innovation. I love turning ideas into real-world applications, contributing to open-source projects, and continuously learning new skills.
+I’m a passionate software developer with a love for building innovative web applications and exploring emerging technologies. I enjoy solving complex problems, contributing to open-source projects, and turning ideas into reality.
+
+💻 Tech Stack: HTML | CSS | JavaScript | React | Node.js | Express.js | MongoDB
+🚀 Interests: Full-Stack Development | AI/ML | Open-Source Collaboration
+🎯 Mission: Create meaningful software that makes an impact
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/kaviya-r-804a9a291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
@@ -28,19 +32,11 @@ I’m a passionate full-stack developer and problem solver, exploring the cuttin
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaviyar23cse&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=kaviyar23cse&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyar23cse&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviyar23cse&theme=default" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/kaviyar23cse/count.svg?" alt="visitors count" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyar23cse&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
 ## GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=kaviyar23cse" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaviyar23cse&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
