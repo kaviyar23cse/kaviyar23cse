@@ -1,5 +1,5 @@
 # Hello 👋, I'm Kaviya
-### Full Stack Developer
+### Full Stack Developer...
 
 I’m a passionate software developer with a love for building innovative web applications and exploring emerging technologies. I enjoy solving complex problems, contributing to open-source projects, and turning ideas into reality.
 
@@ -36,7 +36,7 @@ I’m a passionate software developer with a love for building innovative web ap
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyar23cse&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
-## GitHub Trophies
+## GitHub Trophies 
 
 <img src="https://github-profile-trophy.vercel.app/?username=kaviyar23cse" alt="trophy" />
 
